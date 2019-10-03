@@ -2,7 +2,7 @@
 layout: post
 title:  "We all wait for summer"
 author: fran
-categories: [ Jekyll, tutorial ]
+categories: [ Education ]
 image: assets/images/1.jpg
 tags: [featured]
 ---
