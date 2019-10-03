@@ -1,13 +1,19 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Advantages Blog'
+description: 'Advantages is a Why-driven branding and marketing agency that helps companies get noticed. We specialize in branding, web design, printing, and packaging design while offering strategic marketing support.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/advblog'
 url:
 disqus:
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+email: 'getnoticed@advantages.net'
+mailchimp-list:
+street_address: '120-34 Queens Blvd. Suite 310'
+city: 'Kew Gardens'
+state: 'NY'
+zip_code: 11415
+country: United States of America
+phone: (718) 820-0688
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,21 +26,24 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    fran:
+      name:           Fran
+      site:           https://www.advantages.net
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      bio:            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum, libero ac sollicitudin placerat, dolor nisl ullamcorper nisi, a facilisis massa magna vitae ex."
       email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com
+    zach:
+      name:           Zach
+      site:           https://www.advantages.net
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam interdum eget ligula eu mollis."
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com
+    jekyll:
+      name:           jekyll
+      site:           https://www.advantages.net
+      avatar:         /assets/images/16.jpg
  
 # Defaults
 defaults:
@@ -44,8 +53,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Fran
+      avatar: /assets/images/avatar2.jpg
       
   # all pages
   - scope:
