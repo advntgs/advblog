@@ -2,12 +2,9 @@
  * Mundana Jekyll Theme
  */
 
-@import url('https://fonts.googleapis.com/css?family=Muli:300,400,500,600,700,800,900&display=swap');
-
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
-	font-family: 'Muli', sans-serif;
 }
 .site-content {
 	margin-top:30px;
@@ -34,10 +31,10 @@ a,a:hover {
 	text-decoration:none;
 }
 a {
-	color:#da1a32;
+	color:#03a87c;
 }
 a.text-dark:hover {
-	color:#da1a32 !important;
+	color:#03a87c !important;
 }
 .c-pointer:hover {
 	cursor:pointer;
@@ -115,7 +112,7 @@ a.text-dark:hover {
 	box-shadow:none;
 }
 .btn-link.btn-primary {
-	color:#da1a32;
+	color:#03a87c;
 	border-color:transparent;
 }
 .btn-link.btn-secondary {
@@ -123,7 +120,7 @@ a.text-dark:hover {
 	border-color:transparent;
 }
 .btn-link.btn-success {
-	color:#da1a32;
+	color:#03a87c;
 	border-color:transparent;
 }
 .btn-link.btn-info {
@@ -195,20 +192,20 @@ a.text-dark:hover {
 	font-weight:400;
 }
 .navbar .highlight .nav-link {
-	color:#da1a32 !important;
-	border:1px solid #da1a32;
+	color:#03a87c !important;
+	border:1px solid #03a87c;
 	padding:0.3rem 1rem;
 	border-radius:3px;
 	font-size:.93rem;
 }
 .navbar .highlight .nav-link:hover {
-	background:#da1a32;
+	background:#03a87c;
 	color:#fff !important;
 }
 .navbar-brand {
 	margin-right:2rem;
 	font-size:1.55rem;
-    font-family: 'Muli', sans-serif;
+    font-family:"Georgia","Times New Roman",serif;
 }
 .dropdown-item {
 	font-weight:400;
@@ -300,9 +297,9 @@ a.text-dark:hover {
 		right:0;
 	}
     .jumbotron-home h1 {
-        font-family: 'Muli', sans-serif;
+        font-family: Georgia,Times,"Times New Roman",serif;
         font-size: 2.4rem;
-        font-weight: 800;
+        font-weight: 700;
         line-height: 1.1;
     }
 }
@@ -337,13 +334,13 @@ a.text-dark:hover {
 	background-color:rgba(23,29,90,0.5);
 }
 .bg-primary {
-	fill:#da1a32 !important;
+	fill:#03a87c !important;
 }
 .bg-secondary {
 	fill:#7832e2 !important;
 }
 .bg-success {
-	fill:#da1a32 !important;
+	fill:#03a87c !important;
 }
 .bg-info {
 	fill:#09ebaf !important;
@@ -410,7 +407,7 @@ a.text-dark:hover {
 }
 .card a:hover {
 	text-decoration:none;
-	color:#da1a32;
+	color:#03a87c;
 }
 .card-pricing .card ul li {
 	margin-bottom:1.5rem;
@@ -440,8 +437,8 @@ a.text-dark:hover {
 }
 .alert-primary {
 	color:#fff;
-	background-color:#da1a32;
-	border-color:#da1a32;
+	background-color:#03a87c;
+	border-color:#03a87c;
 }
 .alert-primary hr {
 	border-top-color:#038f6a;
@@ -462,8 +459,8 @@ a.text-dark:hover {
 }
 .alert-success {
 	color:#fff;
-	background-color:#da1a32;
-	border-color:#da1a32;
+	background-color:#03a87c;
+	border-color:#03a87c;
 }
 .alert-success hr {
 	border-top-color:#038f6a;
@@ -629,10 +626,10 @@ ol.list-featured li {
 }
 ol.list-featured li:before {
     content: "0" counter(my-awesome-counter);
-    font-weight: 400;
+    font-weight: bold;
     font-size: 2rem;
     margin-right: 0.5rem;
-    font-family: 'Muli', sans-serif;
+    font-family: Arial;
     line-height: 1;
     opacity: .1;
 }
@@ -657,10 +654,10 @@ footer {
 article {
 	font-size:20px;
 	line-height:1.86;
-    font-family: 'Muli', sans-serif;
+    font-family:Lora;
 }
 .article-headline {
-    font-family: 'Muli', sans-serif;
+    font-family: Georgia,Times,"Times New Roman",serif;
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 1.15;
@@ -677,7 +674,7 @@ article blockquote {
 }
 article blockquote:before {
 	content:"“";
-	font-family: 'Muli', sans-serif;
+	font-family:Georgia;
 	font-size:8rem;
 	margin:-1rem 2rem 0 -3.9rem;
 	position:absolute;
