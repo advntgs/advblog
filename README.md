@@ -1,4 +1,31 @@
-# Jekyll Theme - Mundana by WowThemes.net
+All posts can be found in the `posts` folder in the master branch. Use existing posts as a format reference. 
+Click `_posts` to enter the folder. You can click an existing post file to view it. Click the pencil icon to view the post in markdown and to edit it. 
+Back in the `_posts` folder, click **Create new file** to create a new post.
+
+The head of each post will contain the following:
+```
+---
+layout: post
+title:  "6 reasons your values are not aligned with your company"
+author: advantages
+categories: [ Business ]
+image: assets/images/blog002.jpg
+tags: [sticky, featured]
+---
+```
+Layout will always be `post`
+Title is the title of the post.
+The author is your first name in all lowercase.
+You can add as many categories as you wish within the brackets, seperated by a comma.
+Change the image name to reflect the image you uploaded. Do not change the path though. For example, `assets/images/blog003.jpg`
+Tags are optional. `sticky` means that post will go inside of the large rectangle. `featured` means the post will go in the featured list on the bottom right of the page.
+
+Please refer to the [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) to learn about writing in markdown.
+
+To add images, enter `assets` folder. Within assets, enter `images` folder. Use the set naming convention of `blog00X` to name images for posts. Try to use `.jpg` images.
+
+
+# Jekyll Theme - Mundana
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
 [Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
