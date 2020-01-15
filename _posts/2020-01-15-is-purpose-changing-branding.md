@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Is Purpose Changing Branding?"
-author: fran
+author: advantages
 categories: [ Business ]
 image: assets/images/blog001.jpg
 tags: [featured]
 ---
+
 Just as man once discovered fire by rubbing sticks together, he later rubbed a few stats together and discovered branding. Demographics — age, education, income, residence and buying patterns — became the determining factors of a company brand, and determined the course of advertising for the next hundred years. And then, just as man got the hang of this branding thing, a new brand of humans came along and changed the whole game.
 
 Enter the Cultural Creatives. The “CC”s are everywhere — every age, every income, every education level. And their acutely informed levels of social and global awareness are radically changing purchasing decisions. It’s exciting to see an emerging culture that challenges companies to rethink their corporate values, brand identities and marketing strategies. Finally, it looks like branding is growing a conscience.

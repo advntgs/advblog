@@ -38,8 +38,12 @@ authors:
       site:           https://www.advantages.net
       avatar:         /assets/images/avatar1.jpg
       bio:            "With an unwavering passion for creative work and an exceptional mind for big ideas, Zach turns simple words into expansive stories that resonate in people's hearts. He also likes kangaroos, Sprite, Batman, and all the other superheroes, except for Falcon, who pretty much can't do anything but fly."
-      # email:          fakemail@gmail.com
-      # twitter:        https://twitter.com
+    advantages:
+      name:           Advantages
+      site:           https://www.advantages.net
+      avatar:         /assets/images/avatar3.jpg
+      bio:            "Advantages is a Why-driven branding and marketing agency that helps companies get noticed. We specialize in branding, web design, printing, and packaging design while offering strategic marketing support."
+
     # jekyll:
     #   name:           jekyll
     #   site:           https://www.advantages.net

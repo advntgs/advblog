@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "6 reasons your values are not aligned with your company"
-author: fran
+author: advantages
 categories: [ Business ]
 image: assets/images/blog002.jpg
 tags: [sticky, featured]
