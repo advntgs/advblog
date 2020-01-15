@@ -23,7 +23,7 @@ Layout will always be `post`
 
 Title is the title of the post which is always in quotes.
 
-The author is your first name in all lowercase.
+The author is your first name in all lowercase. (Unless you don't have an author set up yet.)
 
 You can add as many categories as you wish within the brackets, seperated by a comma.
 
