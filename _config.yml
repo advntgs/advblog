@@ -26,7 +26,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    fran:
+    Fran:
       name:           Fran
       site:           https://www.advantages.net
       avatar:         /assets/images/avatar2.jpg
