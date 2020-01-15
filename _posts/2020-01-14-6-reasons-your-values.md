@@ -5,7 +5,6 @@ author: fran
 categories: [ Business ]
 image: assets/images/blog002.jpg
 tags: [sticky, featured]
-tags: featured
 ---
 
 We hate to say it but we’ve seen a lot of bad company values over the years. Not bad as in evil, but bad as in they’re not really values at all. Great company values are clear, actionable, unique to how your company operates differently and are used as decision-making filters every day (yes, every day!). It’s not always easy to find what your company values are but here are some rookie mistakes that you should avoid:
