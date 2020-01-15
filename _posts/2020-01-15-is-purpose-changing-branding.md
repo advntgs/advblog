@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is Purpose Changing Branding?"
-author: Fran
+author: fran
 categories: [ Business ]
 image: assets/images/blog001.jpg
 tags: [featured], featured
