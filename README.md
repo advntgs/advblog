@@ -1,3 +1,5 @@
+# How to add/edit posts
+
 All posts can be found in the `posts` folder in the master branch. Use existing posts as a format reference. 
 Click `_posts` to enter the folder. You can click an existing post file to view it. Click the pencil icon to view the post in markdown and to edit it. 
 Back in the `_posts` folder, click **Create new file** to create a new post.
