@@ -29,7 +29,7 @@ You can add as many categories as you wish within the brackets, seperated by a c
 
 Change the image name to reflect the image you uploaded. Do not change the path though. For example, `assets/images/blog003.jpg`
 
-Tags are optional. `sticky` means that post will go inside of the large rectangle. `featured` means the post will go in the featured list on the bottom right of the page.
+Tags are optional. `sticky` means that post will go inside of the large rectangle. `featured` means the post will go in the featured list on the bottom right of the page. You can use one, both, or neither. I recommend removing `sticky` from a post already containing it when you plan to sticky a new post.
 
 Please refer to the [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) to learn about writing in markdown.
 
