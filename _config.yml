@@ -43,6 +43,21 @@ authors:
       site:           https://www.advantages.net
       avatar:         assets/images/avatar1.jpg
       bio:            "With an unwavering passion for creative work and an exceptional mind for big ideas, Zach turns simple words into expansive stories that resonate in people's hearts. He also likes kangaroos, Sprite, Batman, and all the other superheroes, except for Falcon, who pretty much can't do anything but fly."
+    Ana:
+      name:           Ana
+      site:           https://www.advantages.net
+      avatar:         assets/images/avatar4.jpg
+      bio:            "Ana is a digital marketing whiz who gives a human face and passionate voice to brands. A comic book geek, Couch Surfing early adopter, queen of typos, and a firecracker, Ana left a successful corporate career to go meet the world. She calls both New York and Belgrade home."
+    David:
+      name:           David
+      site:           https://www.advantages.net
+      avatar:         assets/images/avatar5.jpg
+      bio:            "An early convert to the "School of Why", David translates corporate speak into messages that connect. A beer and coffee snob, corny joke collector, purveyor, and recycler, David doesn't think that ordinary people can change the world, he knows it."
+    Courtney:
+      name:           Courtney
+      site:           https://www.advantages.net
+      avatar:         assets/images/avatar6.jpg
+      bio:            "After graduating from Parsons The New School for Design, Courtney began working as a freelance graphic designer and illustrator. Her creative expertise brought her to Advantages where she enjoys producing clean and current designs on a daily basis. In her spare time, Courtney likes checking out art shows, trying new foods, practicing yoga, and going on new adventures with close friends."
 
     # jekyll:
     #   name:           jekyll
