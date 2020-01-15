@@ -33,7 +33,7 @@ Tags are optional. `sticky` means that post will go inside of the large rectangl
 
 Please refer to the [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) to learn about writing in markdown.
 
-To add images, enter `assets` folder. Within assets, enter `images` folder. Use the set naming convention of `blog00X` to name images for posts. Try to use `.jpg` images.
+To add images, enter `assets` folder. Within assets, enter `images` folder. Click **Upload Files**. Use the set naming convention of `blog00X` to name images for posts. Try to use `.jpg` images.
 
 ---
 # Jekyll Theme - Mundana
