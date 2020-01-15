@@ -24,7 +24,7 @@ Please refer to the [Markdown cheatsheet](https://www.markdownguide.org/cheat-sh
 
 To add images, enter `assets` folder. Within assets, enter `images` folder. Use the set naming convention of `blog00X` to name images for posts. Try to use `.jpg` images.
 
-
+---
 # Jekyll Theme - Mundana
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
