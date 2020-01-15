@@ -21,7 +21,7 @@ tags: [sticky, featured]
 ```
 Layout will always be `post`
 
-Title is the title of the post.
+Title is the title of the post which is always in quotes.
 
 The author is your first name in all lowercase.
 
