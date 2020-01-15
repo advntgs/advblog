@@ -29,19 +29,19 @@ authors:
     fran:
       name:           Fran
       site:           https://www.advantages.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         '/assets/images/avatar2.jpg'
       bio:            "As the CEO and founder of Advantages—an award-winning, New York-based, end-to-end communications agency—she leads her clients on an invaluable journey of brand discovery that reveals their personal and organizational 3 Keys: Purpose, Values, and Story."
       # email:          fakemail@gmail.com
       # twitter:        https://twitter.com
     zach:
       name:           Zach
       site:           https://www.advantages.net
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         '/assets/images/avatar1.jpg'
       bio:            "With an unwavering passion for creative work and an exceptional mind for big ideas, Zach turns simple words into expansive stories that resonate in people's hearts. He also likes kangaroos, Sprite, Batman, and all the other superheroes, except for Falcon, who pretty much can't do anything but fly."
     advantages:
       name:           Advantages
       site:           https://www.advantages.net
-      avatar:         /assets/images/avatar3.jpg
+      avatar:         '/assets/images/avatar3.jpg'
       bio:            "Advantages is a Why-driven branding and marketing agency that helps companies get noticed. We specialize in branding, web design, printing, and packaging design while offering strategic marketing support."
 
     # jekyll:
