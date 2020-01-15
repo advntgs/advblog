@@ -3,7 +3,7 @@ name: 'Advantages Blog'
 description: 'Advantages is a Why-driven branding and marketing agency that helps companies get noticed. We specialize in branding, web design, printing, and packaging design while offering strategic marketing support.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/advblog'
+baseurl: ''
 url:
 disqus:
 email: 'getnoticed@advantages.net'
