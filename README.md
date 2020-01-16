@@ -21,7 +21,7 @@ image: assets/images/blog002.jpg
 tags: [sticky, featured]
 ---
 ```
-Layout will always be `post`
+- Layout will always be `post`
 
 - Title is the title of the post which is always in quotes.
 
