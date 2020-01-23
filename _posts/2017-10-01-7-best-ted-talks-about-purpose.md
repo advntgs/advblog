@@ -34,6 +34,7 @@ When we talk about purpose and its value for business, people often want to see 
 
 
 **4. Richard St. John - 8 Secrets of Success**
+
 8 success secrets in 3 minutes - simple as that. There are several key principles, life-values if you will, that are pillars of any success, as expressed by super-successful people such as Rupert Murdoch, Goldie Hawn, Bill Gates, and Freeman Thomas. Richard St. John, marketer and success analyst, compiled them all into this short but powerful presentation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y6bbMQXQ180" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -45,7 +46,7 @@ When we talk about purpose and its value for business, people often want to see 
 To be successful today is to be a leader. It sounds like a big task, or something that is reserved for a very few. But the truth is, everyone can be a leader if they find something they are passionate about, and then connect with like-minded people. Everyone can start a tribe, and Seth Godin argues that everyone should.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/589tH-wtCak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<p></p>
 
 
 **6. Simon Sinek - Why Leaders Make You Feel Safe**
