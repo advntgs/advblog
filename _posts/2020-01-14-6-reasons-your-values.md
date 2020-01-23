@@ -9,7 +9,7 @@ tags: [sticky, featured]
 
 We hate to say it but we’ve seen a lot of bad company values over the years. Not bad as in evil, but bad as in they’re not really values at all. Great company values are clear, actionable, unique to how your company operates differently and are used as decision-making filters every day (yes, every day!). It’s not always easy to find what your company values are but here are some rookie mistakes that you should avoid:
 
-**1. They're too generic**
+#### 1. They're too generic
 
 Do you have the word ‘leadership’ as one of your values? Or how about ‘trust’? Or ‘engagement’? The problem with generic core values is that they’re not specific to how you’re different - as a company or in your industry. If you walk into a bank and see the core value ‘integrity’ on the wall, wouldn’t you assume every bank should have integrity? But there still must be a reason you’ve chosen your bank and there’s something that makes them better than the rest
  
