@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "7 BEST TED TALKS ABOUT PURPOSE"
+title:  "7 Best TED Talks About Purpose"
 author: advantages
 categories: [ Business ]
 image: assets/images/blog003.jpg
