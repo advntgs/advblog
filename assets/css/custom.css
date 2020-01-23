@@ -7,3 +7,7 @@
 	box-shadow: 0 0 0 0.1rem rgba(124, 217, 233, 1);
 	border-color: #55dbec;
 }
+
+iframe{
+	margin-bottom: 25px;
+}
