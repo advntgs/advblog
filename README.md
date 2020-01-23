@@ -39,9 +39,8 @@ tags: [sticky, featured]
 
 To add images, enter `assets` folder. Within assets, enter `images` folder. Click **Upload Files**. Use the set naming convention of `blog00X` to name images for posts. Try to use `.jpg` images.
 
-<p></p>
-<p></p>
-
+---
+---
 ---
 # Jekyll Theme - Mundana
 
