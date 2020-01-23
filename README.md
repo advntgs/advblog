@@ -35,14 +35,13 @@ tags: [sticky, featured]
 
 - Tags are optional. `sticky` means that post will go inside of the large rectangle. `featured` means the post will go in the featured list on the bottom right of the page. You can use one, both, or neither. I recommend removing `sticky` from a post already containing it when you plan to sticky a new post.
 
-### How to add images
+# How to add images
 
 To add images, enter `assets` folder. Within assets, enter `images` folder. Click **Upload Files**. Use the set naming convention of `blog00X` to name images for posts. Try to use `.jpg` images.
 
+
 ---
----
----
-# Jekyll Theme - Mundana
+## Jekyll Theme - Mundana
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
 [Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
