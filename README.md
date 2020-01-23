@@ -11,7 +11,7 @@ Back in the `_posts` folder, click **Create new file** to create a new post.
 Use the naming format of `2020-01-14-6-reasons-your-values.md` using a date in year,month,day format and a slug seperated by hyphens and with the extension `.md`.
 
 
-The head of each post will contain the following:
+The head of each post should contain the following:
 
 ```
 ---
