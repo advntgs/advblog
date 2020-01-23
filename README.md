@@ -25,7 +25,7 @@ tags: [sticky, featured]
 ```
 - Layout will always be `post`
 
-- Title is the title of the post which is always in quotes.
+- Title is the title of the post which is always in quotes. You can use capitalization as you want it to be displayed here.
 
 - The author is your first name in all lowercase. (Unless you don't have an author set up yet.)
 
