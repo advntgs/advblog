@@ -16,7 +16,7 @@ The head of each post should contain the following:
 ```
 ---
 layout: post
-title:  "6 reasons your values are not aligned with your company"
+title:  "6 Reasons your values are not aligned with your company"
 author: advantages
 categories: [ Business ]
 image: assets/images/blog002.jpg
