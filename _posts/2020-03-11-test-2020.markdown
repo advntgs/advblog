@@ -5,6 +5,7 @@ categories:
 - Business
 tags:
 - featured
+image: "/uploads/demo1.jpg"
 ---
 
 test
