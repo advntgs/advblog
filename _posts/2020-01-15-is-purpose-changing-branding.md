@@ -1,13 +1,14 @@
 ---
 title: Is Purpose Changing Branding?
 date: 2020-01-15 00:00:00 Z
+published: false
 categories:
 - Business
 tags:
 - featured
-layout: post
 author: advantages
 image: assets/images/blog001.jpg
+layout: post
 ---
 
 Just as man once discovered fire by rubbing sticks together, he later rubbed a few stats together and discovered branding. Demographics — age, education, income, residence and buying patterns — became the determining factors of a company brand, and determined the course of advertising for the next hundred years. And then, just as man got the hang of this branding thing, a new brand of humans came along and changed the whole game.
