@@ -1,11 +1,13 @@
 ---
 title: Test 2020
 date: 2020-03-11 16:08:00 Z
+published: false
 categories:
 - Business
 tags:
 - featured
-author: Fran
+author:
+  author: Fran
 image: "/uploads/demo1.jpg"
 ---
 
