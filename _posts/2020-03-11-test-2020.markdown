@@ -5,10 +5,8 @@ categories:
 - Business
 tags:
 - featured
-author:
-  author: Fran
-image:
-  image: "/uploads/demo1.jpg"
+author: advantages
+image: assets/images/blog001.jpg
 ---
 
 test
