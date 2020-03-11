@@ -1,7 +1,6 @@
 ---
 title: Is Purpose Changing Branding?
 date: 2020-01-15 00:00:00 Z
-published: false
 categories:
 - Business
 tags:
