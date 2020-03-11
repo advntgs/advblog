@@ -5,6 +5,7 @@ categories:
 - Business
 tags:
 - featured
+author: Fran
 image: "/uploads/demo1.jpg"
 ---
 
