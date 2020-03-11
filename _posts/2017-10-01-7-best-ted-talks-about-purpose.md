@@ -1,10 +1,13 @@
 ---
+title: 7 Best TED Talks About Purpose
+date: 2017-10-01 00:00:00 Z
+categories:
+- Business
+tags:
+- featured
 layout: post
-title:  "7 Best TED Talks About Purpose"
 author: advantages
-categories: [ Business ]
 image: assets/images/blog003.jpg
-tags: [featured]
 ---
 
 Two of our favorite things, Purpose and TED Talks, combined! If you are passionate about purpose and how it can transform your life and your business, these 7 TED talks are must-sees.

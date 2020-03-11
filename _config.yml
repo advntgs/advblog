@@ -1,94 +1,105 @@
-# Site
-name: 'Advantages Blog'
-description: 'Advantages is a Why-driven branding and marketing agency that helps companies get noticed. We specialize in branding, web design, printing, and packaging design while offering strategic marketing support.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+---
+title: Advntgs.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: _posts
+  values:
+    layout: post
+    author: Fran
+    avatar: assets/images/avatar2.jpg
+- scope:
+    path: _pages
+  values:
+    layout: page
+name: Advantages Blog
+description: Advantages is a Why-driven branding and marketing agency that helps companies
+  get noticed. We specialize in branding, web design, printing, and packaging design
+  while offering strategic marketing support.
+logo: assets/images/logo.png
+favicon: assets/images/favicon.ico
 baseurl: ''
-url:
-disqus:
-email: 'getnoticed@advantages.net'
-mailchimp-list:
-street_address: '120-34 Queens Blvd. Suite 310'
-city: 'Kew Gardens'
-state: 'NY'
+url: 
+disqus: 
+email: getnoticed@advantages.net
+mailchimp-list: 
+street_address: 120-34 Queens Blvd. Suite 310
+city: Kew Gardens
+state: NY
 zip_code: 11415
 country: United States of America
-phone: (718) 820-0688
-
-include: ["_pages"]
-permalink: /:title/
-
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-
+phone: "(718) 820-0688"
+include:
+- _pages
+permalink: "/:title/"
+plugins:
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-seo-tag
 authors:
-    advantages:
-      name:           Advantages
-      site:           https://www.advantages.net
-      avatar:         assets/images/avatar3.jpg
-      bio:            "Advantages is a Why-driven branding and marketing agency that helps companies get noticed. We specialize in branding, web design, printing, and packaging design while offering strategic marketing support."
-      # email:          fakemail@gmail.com
-      # twitter:        https://twitter.com
-    fran:
-      name:           Fran
-      site:           https://www.advantages.net
-      avatar:         assets/images/avatar2.jpg
-      bio:            "As the CEO and founder of Advantages—an award-winning, New York-based, end-to-end communications agency—she leads her clients on an invaluable journey of brand discovery that reveals their personal and organizational 3 Keys: Purpose, Values, and Story."
-    zach:
-      name:           Zach
-      site:           https://www.advantages.net
-      avatar:         assets/images/avatar1.jpg
-      bio:            "With an unwavering passion for creative work and an exceptional mind for big ideas, Zach turns simple words into expansive stories that resonate in people's hearts. He also likes kangaroos, Sprite, Batman, and all the other superheroes, except for Falcon, who pretty much can't do anything but fly."
-    ana:
-      name:           Ana
-      site:           https://www.advantages.net
-      avatar:         assets/images/avatar4.jpg
-      bio:            "Ana is a digital marketing whiz who gives a human face and passionate voice to brands. A comic book geek, Couch Surfing early adopter, queen of typos, and a firecracker, Ana left a successful corporate career to go meet the world. She calls both New York and Belgrade home."
-    david:
-      name:           David
-      site:           https://www.advantages.net
-      avatar:         assets/images/avatar5.jpg
-      bio:            "An early convert to the 'School of Why', David translates corporate speak into messages that connect. A beer and coffee snob, corny joke collector, purveyor, and recycler, David doesn't think that ordinary people can change the world, he knows it."
-    courtney:
-      name:           Courtney
-      site:           https://www.advantages.net
-      avatar:         assets/images/avatar6.jpg
-      bio:            "After graduating from Parsons The New School for Design, Courtney began working as a freelance graphic designer and illustrator. Her creative expertise brought her to Advantages where she enjoys producing clean and current designs on a daily basis. In her spare time, Courtney likes checking out art shows, trying new foods, practicing yoga, and going on new adventures with close friends."
-
-    # jekyll:
-    #   name:           jekyll
-    #   site:           https://www.advantages.net
-    #   avatar:         /assets/images/16.jpg
- 
-# Defaults
-defaults:
-
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: Fran
-      avatar: assets/images/avatar2.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
+  advantages:
+    name: Advantages
+    site: https://www.advantages.net
+    avatar: assets/images/avatar3.jpg
+    bio: Advantages is a Why-driven branding and marketing agency that helps companies
+      get noticed. We specialize in branding, web design, printing, and packaging
+      design while offering strategic marketing support.
+  fran:
+    name: Fran
+    site: https://www.advantages.net
+    avatar: assets/images/avatar2.jpg
+    bio: 'As the CEO and founder of Advantages—an award-winning, New York-based, end-to-end
+      communications agency—she leads her clients on an invaluable journey of brand
+      discovery that reveals their personal and organizational 3 Keys: Purpose, Values,
+      and Story.'
+  zach:
+    name: Zach
+    site: https://www.advantages.net
+    avatar: assets/images/avatar1.jpg
+    bio: With an unwavering passion for creative work and an exceptional mind for
+      big ideas, Zach turns simple words into expansive stories that resonate in people's
+      hearts. He also likes kangaroos, Sprite, Batman, and all the other superheroes,
+      except for Falcon, who pretty much can't do anything but fly.
+  ana:
+    name: Ana
+    site: https://www.advantages.net
+    avatar: assets/images/avatar4.jpg
+    bio: Ana is a digital marketing whiz who gives a human face and passionate voice
+      to brands. A comic book geek, Couch Surfing early adopter, queen of typos, and
+      a firecracker, Ana left a successful corporate career to go meet the world.
+      She calls both New York and Belgrade home.
+  david:
+    name: David
+    site: https://www.advantages.net
+    avatar: assets/images/avatar5.jpg
+    bio: An early convert to the 'School of Why', David translates corporate speak
+      into messages that connect. A beer and coffee snob, corny joke collector, purveyor,
+      and recycler, David doesn't think that ordinary people can change the world,
+      he knows it.
+  courtney:
+    name: Courtney
+    site: https://www.advantages.net
+    avatar: assets/images/avatar6.jpg
+    bio: After graduating from Parsons The New School for Design, Courtney began working
+      as a freelance graphic designer and illustrator. Her creative expertise brought
+      her to Advantages where she enjoys producing clean and current designs on a
+      daily basis. In her spare time, Courtney likes checking out art shows, trying
+      new foods, practicing yoga, and going on new adventures with close friends.
 markdown: kramdown
 highlighter: rouge
-
-# Paginate
 paginate: 10
-
-
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude:
+- README.markdown
+- package.json
+- grunt.js
+- Gruntfile.js
+- Gruntfile.coffee
+- node_modules
